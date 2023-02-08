@@ -14,3 +14,4 @@
  9-firstdirdeletion a script that deletes the directory my_first_directory that is in the /tmp directory
  10-back a script that Writes a script that changes the working directory to the previous one.
  11-lists a script that lists all files (even ones with names beginning with a period character, which are normally hidden)
+ 12-file_type writes a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script
