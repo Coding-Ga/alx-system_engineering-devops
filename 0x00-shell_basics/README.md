@@ -5,3 +5,4 @@
  3-listfiles a script that Display current directory contents in a long format
  4-listmorefiles a script that Display current directory contents, including hidden files
  5-listfilesdigitonly a script that Display current directory contents, with user and group IDs displayed numerically
+ 5-listfilesdigitonly a script that Display current directory contents, with user and group IDs displayed numerically
